@@ -336,73 +336,51 @@ The following screenshots can be included as evidence for the assignment.
 
 ## 1. S3 Bucket
 
-Show the S3 bucket created for testing.
+ S3 bucket created for testing.
+<img width="1631" height="799" alt="image" src="https://github.com/user-attachments/assets/3ae4f182-c40e-45d9-8250-4266503b7e59" />
 
-Save as:
-
-```text
-screenshots/01-s3-bucket.png
-```
 
 ---
 
 ## 2. IAM Role
 
-Show the Lambda execution role and its S3 permissions.
+Lambda execution role and its S3 permissions.
 
-Save as:
+<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/61d84ed4-3739-4701-8e6b-d1faf326b4b3" />
 
-```text
-screenshots/02-iam-policy.png
-```
+
 
 ---
 
 ## 3. Lambda Configuration
 
-Show the Lambda function name and Python runtime.
-
-Save as:
-
-```text
-screenshots/03-lambda-configuration.png
-```
+Lambda function name and Python runtime.
+<img width="1916" height="869" alt="image" src="https://github.com/user-attachments/assets/3ddd6c78-8505-4490-8265-2d89583508da" />
 
 ---
 
 ## 4. Lambda Source Code
 
-Show the deployed Lambda Python code.
+Deployed Lambda Python code.
+<img width="997" height="578" alt="image" src="https://github.com/user-attachments/assets/92782851-4008-4acc-8fd5-b0395d41c4dc" />
 
-Save as:
-
-```text
-screenshots/04-lambda-code.png
-```
 
 ---
 
 ## 5. Successful Test
 
-Show the successful Lambda test execution.
+Successful Lambda test execution.
 
-Save as:
+<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/84f03fa9-2b12-4833-9e4c-bfe76a9c8c6a" />
 
-```text
-screenshots/05-lambda-test-success.png
-```
 
 ---
 
 ## 6. CloudWatch Logs
 
-Show the S3 encryption report in CloudWatch Logs.
+S3 encryption report in CloudWatch Logs.
+<img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/1d3bfaf3-970b-4d07-be6f-c4d39dc162f0" />
 
-Save as:
-
-```text
-screenshots/06-cloudwatch-logs.png
-```
 
 ---
 
@@ -413,15 +391,7 @@ assignment-01-s3-encryption-monitor/
 │
 ├── lambda_function.py
 ├── README.md
-│
-└── screenshots/
-    ├── 01-s3-bucket.png
-    ├── 02-iam-policy.png
-    ├── 03-lambda-configuration.png
-    ├── 04-lambda-code.png
-    ├── 05-lambda-test-success.png
-    └── 06-cloudwatch-logs.png
-```
+
 
 ---
 
