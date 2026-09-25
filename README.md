@@ -392,8 +392,8 @@ assignment-01-s3-encryption-monitor/
 ├── lambda_function.py
 ├── README.md
 
-
 ---
+```
 
 # Conclusion
 
